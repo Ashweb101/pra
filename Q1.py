@@ -24,7 +24,8 @@ test=["OM NAMAH PARVATI PATEY HAR HAR MAHADEV","OM SHREE SHIVAY NAMASTOBHYAM","O
 
 
 test1 = r.choice(test)
-print("TYPING SPEED")
+print("PRANAM")
+print("AAPKA SWAGAT HAI")
 print(test1)
 print()
 print()
