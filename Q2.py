@@ -68,9 +68,6 @@ button3.grid(row=2, column=2)
 button3.bind("<Button-1>", play)
 
 
-
-
-
-
-
 root.mainloop()
+
+
